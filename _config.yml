@@ -16,7 +16,7 @@ github_username: "paqiangtalk"
 #googleplus_username: +username
 
 ## use bluma remote themme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: paqiangtalk/bulma-clean-theme
 paginate: 5
 paginate_path: "/page:num"
 
