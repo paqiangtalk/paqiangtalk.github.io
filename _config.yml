@@ -15,6 +15,9 @@ github_username: "paqiangtalk"
 #youtube_username: username
 #googleplus_username: +username
 
+## use bluma remote themme
+remote_theme: chrisrhymes/bulma-clean-theme
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
