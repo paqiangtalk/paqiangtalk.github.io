@@ -35,6 +35,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
 
 titles_from_headings:
   strip_title: true
