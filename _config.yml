@@ -17,8 +17,10 @@ github_username: "paqiangtalk"
 
 ## use bluma remote themme
 remote_theme: paqiangtalk/bulma-clean-theme
+fixed_navbar: top
 paginate: 5
 paginate_path: "/page:num"
+
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
