@@ -25,19 +25,19 @@ paginate_path: "/page:num"
 #########################################################################################
 #theme: "minima"
 
-#rss: rss
+rss: rss
 
-#kramdown:
-#  syntax_highlighter_opts:
-#    disable: true
+kramdown:
+ syntax_highlighter_opts:
+   disable: true
     
-#plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
-# titles_from_headings:
-#   strip_title: true
-#   collections: true
+titles_from_headings:
+  strip_title: true
+  collections: true
 
 defaults:
   - scope:
@@ -45,7 +45,3 @@ defaults:
       type: post
     values:
       tags: Other
-  - scope:
-      path: "/"
-    values:
-      layout: blog
